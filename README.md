@@ -35,7 +35,7 @@ The repository declares pnpm 12.3.4 as its package manager. Using pnpm is recomm
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ashuiw/OR-Flow
 cd qrflow
 ```
 
